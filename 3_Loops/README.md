@@ -1,5 +1,5 @@
 # Palindrome Number
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=o4Ddjj5ELAU5t26F
+" target="_blank"><img width="1456" height="1656" alt="L_9_PalindromeNumber" src="https://github.com/user-attachments/assets/9676d2a3-dfe3-46d5-8869-41a21eb8ec11" /></a>
+<img width="1456" height="1656" alt="L_9_PalindromeNumber" src="https://github.com/user-attachments/assets/9676d2a3-dfe3-46d5-8869-41a21eb8ec11" />
+https://youtu.be/HRx5tDYVCnc?si=o4Ddjj5ELAU5t26F
