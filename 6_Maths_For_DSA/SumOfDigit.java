@@ -28,6 +28,8 @@ public class SumOfDigit {
     System.out.println("Sum of " + num + " is " + sum);
     return sum;
 
+    
   }
 
 }
+
