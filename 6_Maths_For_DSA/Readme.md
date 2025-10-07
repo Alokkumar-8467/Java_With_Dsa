@@ -4,7 +4,7 @@
 #### Explanation Video: <a href="" >kola</a>
 
 ## ArmstrongNumber
-#### Explanation Video: <a href="https://www.youtube.com/watch?v=rtcnsqVj-WU&t=36s" >Explanation Video</a>
+#### Explanation Video: <a href="https://www.youtube.com/watch?v=rtcnsqVj-WU&t=36s" target="_blank" >Explanation Video</a>
 <img width="814" height="836" alt="image" src="https://github.com/user-attachments/assets/206ff632-c81f-4cca-8b77-d2e3b0ba834b" />
 
 
