@@ -27,7 +27,4 @@ public class SumOfDigitsFrom_1_To_N {
       System.out.println("Sum of " + i + " = " + sum);
     }
   }
-
-  
-  
 }
