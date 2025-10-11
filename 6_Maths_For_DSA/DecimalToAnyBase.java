@@ -25,5 +25,4 @@ public class DecimalToAnyBase {
     }
     System.out.println("Result is " + resNum );
   }
-
 }
