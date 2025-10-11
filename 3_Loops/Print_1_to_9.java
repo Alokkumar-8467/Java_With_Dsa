@@ -20,3 +20,5 @@ public class Print_1_to_9 {
 // I any system if we want to take integer input then we use nextInt() method
 // If we want to take string input then we use nextLine() method  
 // If we want to take both integer and string input then we use int n = Integer.parseInt(scn.nextInt()) for Integer and then nextLine() to consume the newline character
+
+
