@@ -7,3 +7,6 @@ public class Check_Odd_Even {
     else System.out.println(x + " is an odd number");
   }
 }
+
+
+
