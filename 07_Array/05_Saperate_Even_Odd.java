@@ -28,6 +28,7 @@ class Saperate_Even_Odd {
     }
 
     if(countEven > 0)
+      System.out.println("Even Elements in this array are");
     {
       for(int i = 0; i<n; i++)
       {
@@ -40,6 +41,7 @@ class Saperate_Even_Odd {
     }
 
     if(countOdd > 0)
+      System.out.println("Odd Elements in this array are");
     {
       for(int i = 0; i<n; i++ )
       {
@@ -53,6 +55,3 @@ class Saperate_Even_Odd {
 
   }
 }
-
-
-
