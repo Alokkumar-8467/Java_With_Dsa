@@ -122,5 +122,7 @@ i	j	Condition	answer array
 3	2	i≠2 → copy	[10, 20, 25, 30, _]
 4	3	i≠2 → copy	[10, 20, 25, 30, 40]
 
+
 */
+
 
