@@ -24,3 +24,4 @@ public class Check_Prime_Or_Not {
     }
   }
 }
+
