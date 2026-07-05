@@ -21,6 +21,7 @@ public class L_9_PalindromeNumber {
       n = n / 10;
     }
 
+    
     if (revNum == x) {
       System.out.println(revNum + " Number is Palindrome");
     } else {
